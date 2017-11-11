@@ -1,0 +1,27 @@
+* {
+  font-family: "Helvetica" "Arial" "san-serif"
+}
+
+body {
+  padding: 0 30px 0 30px
+}
+
+header {
+  height: 100px;
+  border-bottom: 1px solid #ccc;
+}
+
+header nav {
+  float: right;
+}
+
+nav ul {
+  padding: 0 0 0 0;
+  margin: 40px 0 0 0;
+}
+
+nav ul li {
+  display:inline;
+  margin-right: 10px;
+}
+

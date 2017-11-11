@@ -70,3 +70,12 @@ div.jumbotron {
   padding: 0 40px 0 40px;
   line-height: 40px;
 }
+div.jumbotron a.btn {
+  border-radius: 5px;
+  color: #fff;
+  background-color: #007bff;
+  border-color: #007bff;
+  text-decoration: none;
+  padding: 18px;
+  font-size: 20px;
+}

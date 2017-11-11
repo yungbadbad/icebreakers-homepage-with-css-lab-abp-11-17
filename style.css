@@ -30,3 +30,8 @@ nav a {
   color: #007bff;
   font-size: 18px;
 }
+
+nav a:hover{
+  text-decoration: underline;
+  color: #0056b3
+}

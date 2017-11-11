@@ -38,7 +38,7 @@ nav a:hover {
 
 h3#header {
   float: left;
-  font-size: 30px
+  font-size: 30px;
 }
 
 #header a {
@@ -46,7 +46,7 @@ h3#header {
   color: #868e96;
 }
 
-#header A:hover {
+#header a:hover {
   text-decoration: underline;
 }
 
@@ -70,3 +70,4 @@ div.jumbotron {
   padding: 0 40px 0 40px;
   line-height: 40px;
 }
+
